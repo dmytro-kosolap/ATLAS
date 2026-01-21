@@ -1,0 +1,23 @@
+# =========================================================
+# ATLAS v1.0 — Canonical Artifact
+# Status: CLOSED / CANONICAL
+# Purpose: Preserve textual integrity and digital fingerprint
+# =========================================================
+
+# Disable automatic text normalization
+* -text
+
+# Explicitly fix text files as UTF-8 without normalization
+*.md  text working-tree-encoding=UTF-8
+*.txt text working-tree-encoding=UTF-8
+
+# Prevent end-of-line rewriting
+*.md  eol=lf
+*.txt eol=lf
+
+# Treat all content as non-code (disable linguist heuristics)
+* linguist-detectable=false
+
+# Explicitly mark documentation files
+*.md linguist-documentation=true
+*.txt linguist-documentation=true

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "ATLAS v1.0"
+message: "If you use this work, please cite it as specified below."
+type: dataset
+version: "1.0"
+date-released: "2026-01-20"
+status: "CLOSED / CANONICAL RELEASE"
+
+authors:
+  - family-names: "Kosolap"
+    given-names: "Dmytro"
+
+abstract: >
+  ATLAS v1.0 is a completed theoretical–operational project
+  designed to identify structural limitations, cultural bias,
+  and epistemological boundaries of large language models (LLMs).
+  The project is fixed as a canonical intellectual artifact
+  and is not under development.
+
+license: "CC-BY-NC-ND-4.0"
