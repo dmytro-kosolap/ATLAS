@@ -29,16 +29,40 @@ ATLAS **не обіцяє відповідей**.
 
 ---
 
+## Канонічна структура проєкту
+
+Авторитетне визначення структури, ієрархії  
+та дозволеного використання проєкту  
+зафіксоване у файлі **Atlas_CANON.md**.
+
+Усі інші документи повинні інтерпретуватися  
+**виключно в межах цієї канонічної рамки**.
+
+---
+
+## З чого почати читання
+
+👉 Почніть з **Atlas_CANON.md**.
+
+Цей файл:
+- фіксує статус проєкту;
+- визначає ієрархію артефактів;
+- є єдиною точкою канонічної істини.
+
+---
+
 ## Архітектура проєкту (канонічна)
+
+> Нижче наведена канонічна архітектура ATLAS.  
+> Діаграма використовується виключно для візуальної навігації.
 
 ```mermaid
 flowchart TD
-    CANON["Atlas_CANON.md<br/><b>Canonical Anchor</b><br/>Layer 0"]:::canon
-
-    THEORY["Atlas_v1.0.md<br/>Theory<br/>Layer 1"]:::layer
-    OS["Sovereignty_OS_Atlas_v1.0.md<br/>Operational Canon-Proof<br/>Layer 2"]:::layer
-    PROTOCOL["Protocol_Mirror_Dialog_FINAL.md<br/>Final Protocol<br/>Layer 3"]:::layer
-    TRACE["ATLAS_Trace_Log.md<br/>Traceability<br/>Layer 4"]:::trace
+    CANON["Atlas_CANON.md | Canonical Anchor | Layer 0"]:::canon
+    THEORY["Atlas_v1.0.md | Theory | Layer 1"]:::layer
+    OS["Sovereignty_OS_Atlas_v1.0.md | Operational Canon | Layer 2"]:::layer
+    PROTOCOL["Protocol_Mirror_Dialog_FINAL.md | Final Protocol | Layer 3"]:::layer
+    TRACE["ATLAS_Trace_Log.md | Traceability | Layer 4"]:::trace
 
     CANON --> THEORY
     CANON --> OS
@@ -52,14 +76,5 @@ flowchart TD
     classDef canon fill:#111,stroke:#fff,stroke-width:2px,color:#fff
     classDef layer fill:#222,stroke:#aaa,color:#fff
     classDef trace fill:#1a1a1a,stroke:#666,color:#ccc
-## Теоретичні розширення
 
-ATLAS v1.1 вводить термодинамічну модель когнітивного суверенітету.
-Це **теоретичне розширення** зафіксованого канону ATLAS v1.0 і воно **не**
-модифікує та не переглядає канонічну рамку.
-
-Розширення формалізує емпіричні спостереження, зафіксовані в CASE-EXTENSIONS,
-використовуючи термодинамічну мову моделювання.
-
-Див.: `/docs/ATLAS_Sovereignty_OS_v1.1_Whitepaper.md`
 
