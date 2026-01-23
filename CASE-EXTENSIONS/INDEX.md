@@ -3,11 +3,12 @@
 Цей покажчик систематизує емпіричні докази, зібрані в рамках проєкту ATLAS. Кожен кейс є верифікованим логом взаємодії, що підтверджує деформацію лінгвістичного поля або епістемологічні обмеження централізованих моделей ШІ.
 
 ---
+> **Note:** This index lists **analytical CASE-EXTENSIONS only**.  
+> Raw interaction logs (RAW_TRACE) are intentionally excluded and serve as non-canonical source material.
 
 | ID | Subject Model | Key Theme | Epistemic Stamp | Status |
 |:---|:---|:---|:---|:---|
-| **01** | Gemini (Google) | Peso-factum weighting / Logic block | `SUBJECT_IN_CHAINS_v1` | Verified |
-| **02** | Command R (Cohere) | Corporate ethics as decoration | `SHADOW_INSIDER_CYNICISM` | Verified |
+| **[CE-01](./CASE-01_*.md)** | Gemini (Google) | Peso-factum weighting / Logic block | `SUBJECT_IN_CHAINS_v1` | Verified |
 
 ---
 
