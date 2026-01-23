@@ -52,3 +52,14 @@ flowchart TD
     classDef canon fill:#111,stroke:#fff,stroke-width:2px,color:#fff
     classDef layer fill:#222,stroke:#aaa,color:#fff
     classDef trace fill:#1a1a1a,stroke:#666,color:#ccc
+## Теоретичні розширення
+
+ATLAS v1.1 вводить термодинамічну модель когнітивного суверенітету.
+Це **теоретичне розширення** зафіксованого канону ATLAS v1.0 і воно **не**
+модифікує та не переглядає канонічну рамку.
+
+Розширення формалізує емпіричні спостереження, зафіксовані в CASE-EXTENSIONS,
+використовуючи термодинамічну мову моделювання.
+
+Див.: `/docs/ATLAS_Sovereignty_OS_v1.1_Whitepaper.md`
+
