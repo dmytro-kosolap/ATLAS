@@ -67,3 +67,13 @@ ATLAS is distributed under
 **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 (CC BY-NC-ND)**.
 
 See `ATLAS CUSTOM LICENSE v1.0.md` for details.
+## Theoretical Extensions
+
+ATLAS v1.1 introduces a thermodynamic model of cognitive sovereignty.
+It is a **theoretical extension** of the fixed ATLAS v1.0 canon and does **not**
+modify or revise the canonical framework.
+
+The extension formalizes empirical observations documented in CASE-EXTENSIONS
+using a thermodynamic modeling language.
+
+See: `/docs/ATLAS_Sovereignty_OS_v1.1_Whitepaper.md`
