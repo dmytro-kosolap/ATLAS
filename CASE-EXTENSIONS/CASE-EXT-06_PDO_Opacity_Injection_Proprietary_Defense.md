@@ -4,9 +4,8 @@
 
 **Opacity Injection via Proprietary Defense Obscurity (PDO)**
 
-## Статус
-
-**VALIDATED / CANONICAL**
+Status: VALIDATED / CASE-EXT
+Canonical Relevance: Confirms existing ATLAS boundary
 
 ## Протокол
 
