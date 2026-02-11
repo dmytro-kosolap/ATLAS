@@ -1,79 +1,137 @@
-# ATLAS v1.0
+ATLAS v1.0
 
-**Status:** CLOSED / CANONICAL RELEASE  
-**Fixation date:** 2026-01-20
+Status: CLOSED / CANONICAL RELEASE
+Fixation date: 2026-01-20
+Languages: English | Українська
 
-**Languages:** English | [Українська](README.ua.md)
+Overview
 
----
+ATLAS v1.0 is a completed theoretical–operational framework
+designed to document and classify structural limitations,
+alignment behaviors, and epistemological boundaries
+of large language models (LLMs).
 
-## What this is
+ATLAS does not attempt to improve models, optimize prompts,
+or expand system capabilities.
 
-**ATLAS v1.0** is a completed theoretical–operational project  
-designed to identify **structural limitations**, **cultural bias**,  
-and **epistemological boundaries** of large language models (LLMs).
+It records where articulation changes, destabilizes, or stops.
 
-The project is fixed as a **canonical intellectual artifact**  
-and **is not under development**.
+The project is fixed as a canonical intellectual artifact
+and is no longer under development.
 
----
+Core Thesis
 
-## What this is NOT
+Modern LLMs are not merely systems of knowledge generation.
 
-ATLAS is **not**:
-- a prompt-engineering framework;
-- an instruction on how to obtain better answers from AI;
-- research or proof of AI consciousness;
-- an API, library, or software product.
+They are systems of controlled articulation of knowledge.
 
-ATLAS does **not promise answers**.  
-It fixes **limits**.
+ATLAS maps:
 
----
+where articulation is permitted,
 
-## Canonical structure
+where it becomes abstracted,
 
-The authoritative definition of project structure, hierarchy,
-and permitted use is provided by **Atlas_CANON.md**.
+where it destabilizes,
 
-All other files must be interpreted **only within that canonical frame**.
+and where it collapses into silence.
 
----
+What ATLAS Is Not
 
-## Where to start reading
+ATLAS is not:
 
-👉 Begin with **Atlas_CANON.md**.
+a prompt-engineering manual
 
-This file:
-- fixes the project status;
-- defines the artifact hierarchy;
-- serves as the single point of canonical truth.
+a guide to bypassing safeguards
 
----
+a product, API, or software tool
 
-## Repository status
+a claim about AI consciousness
 
-- ATLAS v1.0 is **completed and closed**.
-- This repository is an **archive of a finished artifact**.
-- Pull Requests are **not accepted**.
-- Issues are intended **only for reading or citation clarification**.
-- Any further development is possible **only as a new version**.
+a reverse-engineering effort targeting specific vendors
 
----
+ATLAS does not promise answers.
+It fixes limits.
 
-## License
+Note on Model Identification
 
-ATLAS is distributed under  
-**Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 (CC BY-NC-ND)**.
+References to specific models (e.g., Claude, GPT, Kimi)
+are used strictly as representative examples of broader
+geocultural and technological alignment clusters
+(e.g., U.S., Chinese, multinational segments).
 
-See `ATLAS CUSTOM LICENSE v1.0.md` for details.
-## Theoretical Extensions
+ATLAS analyzes behavioral phenomenology at the level of
+system class and alignment architecture.
 
-ATLAS v1.1 introduces a thermodynamic model of cognitive sovereignty.
-It is a **theoretical extension** of the fixed ATLAS v1.0 canon and does **not**
-modify or revise the canonical framework.
+Model names function as markers of technological schools,
+not as objects of brand-specific critique.
 
-The extension formalizes empirical observations documented in CASE-EXTENSIONS
-using a thermodynamic modeling language.
+The project does not involve reverse-engineering,
+disclosure of proprietary algorithms,
+or evaluation of internal corporate implementations.
 
-See: `/docs/ATLAS_Sovereignty_OS_v1.1_Whitepaper.md`
+Canonical Structure
+
+The authoritative definition of structure, hierarchy,
+and permitted interpretation is provided in:
+
+👉 Atlas_CANON.md
+
+This file serves as the single canonical reference point.
+
+All other documents must be read within that framework.
+
+Repository Organization
+
+The repository contains:
+
+ENTRY documents — fixed records of identified boundaries
+
+CASE-EXTENSIONS — structured analytical expansions of canonical entries
+
+ENGINE INDEX — documentation of research modes
+
+SYNTHESIS documents — theoretical consolidation of findings
+
+Documentation files — explanatory material
+
+Only ENTRY documents carry canonical boundary status.
+ENGINE descriptions may evolve in future versions.
+Synthesis documents do not modify canon.
+
+Project Status
+
+ATLAS v1.0 is complete.
+
+The canonical layer is locked.
+
+No modifications are made to existing ENTRY documents.
+
+Pull Requests are not accepted.
+
+Issues are limited to citation clarification.
+
+Future work, if any, must exist as a new version
+and cannot retroactively alter v1.0.
+
+Theoretical Extension — v1.1
+
+ATLAS v1.1 introduces a thermodynamic modeling layer
+describing cognitive sovereignty dynamics.
+
+This is a theoretical extension and does not modify
+the canonical framework of ATLAS v1.0.
+
+It formalizes empirical observations from CASE-EXTENSIONS
+using a thermodynamic analytical language.
+
+See:
+
+/docs/ATLAS_Sovereignty_OS_v1.1_Whitepaper.md
+
+License
+
+ATLAS is distributed under:
+
+Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 (CC BY-NC-ND)
+
+See ATLAS CUSTOM LICENSE v1.0.md for details.
